@@ -1,70 +1,37 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Adventure website is a range of heart-pumping activities, from bungee jumping and skydiving to white-water rafting and hill climbing and more. We provide detailed information on each adventure, including different adventure names, and safety tips.
+Skydiving, bungee jumping, hill climbing, snowboarding, high diving, kayaking, zipline, and other extreme sports are examples of extreme activities. They provide a special chance to put your courage, strength, and resilience to the test while feeling the adrenaline rush that comes from overcoming a difficult task. Even though extreme adventures are not for the timid, they can be safely pursued with the right planning and direction. It's crucial to cooperate with knowledgeable teachers and guides who can help secure your safety and properly weigh the hazards.  This website is created to take some of the most exciting places on earth, and our knowledgeable guides will make sure that your time there is safe and memorable
 
-## Available Scripts
+                          Technologies Used in Adventures
+•	React
+•	Css
+•	Redux
+•	Html
+•	Git Hub
+•	Visual Studio
 
-In the project directory, you can run:
+React JS and CSS were used in the development of the extreme adventure website to give thrill seekers and adrenaline junkies alike a dynamic, responsive, and user-friendly experience. A well-liked front-end JavaScript toolkit called React JS enables programmers to effectively manage state, construct reusable components, and handle user interactions. The website's layout, color palette, typography, and animations were all created using CSS.
 
-### `npm start`
+                                                  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+                                             Pages
 
-### `npm test`
+A number of sections make up the website's structure, including Home, About Us, Packages, Contact Us, and a search bar. React components, which are created to be modular, reusable, and simple to manage, are used to build each page. The website's components have a uniform and aesthetically pleasing look and feel thanks to the use of CSS styling.
+The Home page is made to highlight  An overview of what we provide is provided on my home page, along with the most recent information on fresh extreme activities, safety precautions for the adventure, and engaging content to aid in the planning of your upcoming vacation and most recent information on brand-new extreme activities, travel advice, and intriguing content to assist users in making vacation plans. More specific information about who we are and what we stand for, The company's objectives, values, and team of professionals are covered in greater detail on the About Us page. We favor encouraging risk-free, prudent extreme activities while also expanding the realm of the achievable.
+consumers can select from a variety of exciting alternatives on the Packages page, The Packages section offers a wide range of intriguing possibilities for your forthcoming trip. No matter if a consumer is looking for a multi-day package or a single-day excursion, we have solutions to suit their needs and budget.  
+ and on the Contact Us page, a form is available for consumers to submit in order to get in touch with the business directly… Finally, you can get in touch with us directly through our Contact Us page if you have any queries.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+                           Color Palette And Fonts
 
-### `npm run build`
+Bold and brilliant colors are employed on websites for extreme adventures to evoke a feeling of energy, excitement, and adventure. Orange and blue hues are among these colors. Additionally, black and white are frequently used to produce a dynamic, high-contrast look. I have primarily used the color codes blue (RGB (15,1,57)) and brown(RGB (120,95,45)) and the background color light blue(RGB (204,204,237)).
+Fonts are employed bold, robust, and easy-to-read typefaces are frequently employed on websites dedicated to extreme adventures. Popular options include sans-serif typefaces like Helvetica, Arial, and Futura. These fonts exude a sense of strength, professionalism, and modernism.   
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+                                      References
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+•	https://www.youtube.com/watch?v=G6CoKql88aA&t=52s
+•	https://Github.com
+•	https://www.youtube.com/watch?v=309beMyhXtg
+•	https://www.youtube.com/watch?v=FjBJJepT6Ts&t=18s
+•	https://remixicon.com
