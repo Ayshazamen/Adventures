@@ -1,0 +1,44 @@
+.footer{
+    background-color: rgb(15, 1, 57);
+    padding-top: 2px;
+    padding-bottom: 15px;
+}
+.footer_logo i{
+    color:rgb(120, 95, 45);
+    font-weight: 400;
+}
+.footer_logo span {
+    color: rgb(120, 95, 45);
+    font-weight: 500;
+}
+.footer_logo-content{
+    color: rgb(163, 163, 161);
+    margin-top: 15px;
+    line-height: 30px;
+
+}
+.quick_link{
+    border: none;
+    background: transparent;
+}
+
+.quick_link a{
+    color: rgb(137, 137, 135);
+    text-decoration: none;
+    font-weight: 500;
+    border: none;
+
+        
+  
+}
+.quick_link a:hover{
+    color: #1e1201;
+
+}
+.footer_link-title{
+    color:rgb(120, 95, 45);
+}
+.contact_info{
+    color:  rgb(163, 163, 161);
+    font-weight: 300;
+}

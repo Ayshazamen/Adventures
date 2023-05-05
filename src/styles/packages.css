@@ -1,0 +1,22 @@
+.image {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+.adventure_item h4{
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+
+}
+.adventure_img{
+    object-fit: contain;
+}
+
+.adventure_item1{
+    background-color: rgb(228, 237, 237);
+}

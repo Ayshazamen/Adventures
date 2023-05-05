@@ -1,0 +1,9 @@
+.adventure_item-content h4{
+    font-size: 28px;
+    color: rgb(107, 57, 3);
+}
+.adventure_img:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+
+}

@@ -1,0 +1,46 @@
+.about_section_content{
+    background-color: rgb(204, 204, 237);
+    padding-bottom: 15%;
+}
+.about_section-item{
+    column-gap: 3rem;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(4, 4, 78);
+    padding-top: 8%;
+    padding-bottom: 20%;
+
+}
+.about_section-item i{
+    color:#ab6c07;
+    font-size: 1.1rem;
+    padding-bottom: 10%;
+    
+
+}
+.about_img{
+    padding-bottom: 10%;
+    
+   
+   
+}
+.section_description{
+    font-size: 19.5px;
+    padding-top: 3%;
+    color: rgb(5, 5, 72);
+}
+.section_title{
+    color: rgb(5, 5, 115);
+    font-weight: 800;
+    font-size: 50px;
+    padding-top: 8%;
+    padding-bottom: 2%;
+   
+}
+.section_subtitle{
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 5%;
+    padding-top: 10%;
+    
+}
